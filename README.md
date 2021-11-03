@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-👩‍💻 Atualmente fazendo Sistemas para a Internet
-📚 Amo ler (Principalmente drama com investigação)
-👾 Aprendendo novas linguagens
-👻 Amando o mundo de T.I.
-Back-end + Front-end = 🤍
-🐶🦜 Mamãe de Pets 
+- 👾 Sistemas para a Internet
+- 🤍 Back + Front
+- 🐶🐦 Mamãe de Pets
+- 👩‍💻 Futura Sg. Informação
+- Programação 💜
