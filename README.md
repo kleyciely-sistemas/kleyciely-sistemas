@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👾 Sistemas para a Internet
-- 🤍 Back + Front
+- 🤍 Back-end + Front-end
 - 🐶🐦 Mamãe de Pets
 - 👩‍💻 Futura Sg. Informação
 - Programação 💜
