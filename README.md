@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 👾 Sistemas para a Internet
-- 🤍 Back-end + Front-end
-- 👩‍💻 Futura Seg. Informação
-- Programação ❣
+- Sistema para Internet 2/4
+- Back-end + Front-end
+- T.I.
 
 <div align = "center">
   <a href="https://github.com/kleyciely-sistemas">
