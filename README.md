@@ -2,7 +2,6 @@
 
 - 👾 Sistemas para a Internet
 - 🤍 Back-end + Front-end
-- 🐶🐦 Mamãe de Pets
 - 👩‍💻 Futura Seg. Informação
 - Programação ❣
 
