@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Sistema para Internet 3/4
-- Processo interno❤
-- TI
+- Back-end ❤
+- TI 💻
 
 <div align = "center">
   <a href="https://github.com/kleyciely-sistemas">
